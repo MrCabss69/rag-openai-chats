@@ -1,0 +1,32 @@
+# Core Data & ETL
+pandas>=2.2
+pyarrow>=15.0
+ijson>=3.2
+tqdm>=4.66
+pydantic>=2.6
+
+# Embeddings & NLP
+sentence-transformers>=2.6
+scikit-learn>=1.4
+transformers>=4.39
+torch>=2.1
+
+# Haystack + Milvus Integration
+haystack-ai>=2.0
+milvus-haystack>=2.0
+pymilvus>=2.4
+
+# Notebook / Jupyter
+ipython>=8.23
+jupyterlab>=4.1
+notebook>=7.1
+
+# (Opcional pero útil)
+rich>=13.7 
+python-dotenv>=1.0
+beautifulsoup4>=4.12
+requests>=2.31
+
+# # Test & QA (opcional, por si tests más adelante)
+# pytest>=8.0
+# ruff>=0.4 
